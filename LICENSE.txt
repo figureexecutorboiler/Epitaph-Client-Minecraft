@@ -14,4 +14,4 @@ Epitaph Client. Minecraft Java Edition client.
 
 
 TAGS
-epitaph, epitaph-client, minecraft-client, minecraft-java                         
+epitaph, epitaph-client, minecraft-client, minecraft-java                          
